@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Zilin Huang
-#Github address: 
+#Github address: https://github.com/zh19a/lingyu/tree/master/RMSD_ZilinHuang
 from math import sqrt
 
 # define function to read file and extract data
